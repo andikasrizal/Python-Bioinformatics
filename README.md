@@ -241,5 +241,14 @@ Reference material is not publicly included to respect academic and copyright bo
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+Copyright (c) 2026  
+**Krish Singh** ([github.com/wasitkrish](https://github.com/wasitkrish))
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff6b
