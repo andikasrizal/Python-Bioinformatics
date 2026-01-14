@@ -64,8 +64,10 @@ data handling, and visualization**.
 ---
 ## 📁 Repository Structure
 
+The full directory structure is shown below:
+
+```text
 Python-BioInformatics/
-│
 ├── sequences/
 │   ├── manual-transcription.py
 │   ├── transcription-biopython.py
@@ -109,8 +111,8 @@ Python-BioInformatics/
 │   ├── smiles-to-PDB.py
 │   ├── descriptors-from-smiles-as-a-file.py
 │   ├── descriptors-from-smiles-with-atoms-aromaticity.py
+```
 
----
 
 ---
 
