@@ -1,0 +1,16 @@
+from Bio.Seq import Seq
+n=int(input("Enter the number of sequence you want to input: "))
+for i in range(n):
+    print("enter sequence ",i+1,":")
+    Sequence=Seq(input())
+    CountA=Sequence.count("A")
+    CountT=Sequence.count("T")
+    CountG=Sequence.count("G")
+    CountC=Sequence.count("C")
+    print("Count of A in Sequence ",i+1," is :",CountA)
+    print("Count of T in Sequence",i+1," is : ",CountT)
+    print("Count of G in Sequence ",i+1," is : ",CountG)
+    print("Count of C in Sequence ",i+1," is : ",CountC)
+    l=len(Sequence)
+    print("Length of Sequence :",l)
+    print("\n")
